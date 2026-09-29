@@ -17,7 +17,7 @@ export const site = {
   youtube: "",
   github: "https://github.com/b-prateek2006",
   // Link to this website's public GitHub repo (shown in the footer).
-  repo: "",
+  repo: "https://github.com/b-prateek2006/PORTFOLIO",
 
   // Optional short, muted, looping showreel for the hero (e.g. "/showreel.mp4",
   // under ~8 MB) and a poster image shown while it loads.
